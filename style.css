@@ -1,0 +1,26 @@
+body{
+    text-align: center;
+}
+img{
+    transition: transform .2s;
+    border-radius: 10%;
+    padding: 10px;
+}
+img:hover{
+    transform:scale(0.9)
+}
+#section1{
+    background-color: darkcyan;
+    height: 750px;
+}
+#section2{
+    background-color: darkslateblue;
+    height: 525px;
+}
+h1{
+    font-family: 'Comic Neue', cursive;
+    font-size: xx-large;
+}
+iframe{
+    padding: 10px;
+}
